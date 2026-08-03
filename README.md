@@ -3,4 +3,4 @@
 
 スマホのカメラで下のQRコードを読み取ってね！
 
-![QRコード](qrcode_380773495_6a8d729c0bc390163fb5123d990b7c9b.png)
+![QRコード](https://github.com/pom-pompopo/my-webar/blob/main/qrcode_380795119_a48df887eddc0ed55b2589b52dc3e40d.png)
